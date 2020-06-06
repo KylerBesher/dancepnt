@@ -71,6 +71,9 @@
 .bg-black {
   background-color: var(--black);
 }
+.bg-blackout {
+  background-color: var(--blackout);
+}
 
 .bg-fix-primary {
   padding: 0 var(--spacing-small);

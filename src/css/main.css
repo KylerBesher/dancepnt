@@ -30,7 +30,6 @@
 /* Custom Modules */
 @import './custom/bokeh';
 @import './custom/divider';
-@import './custom/down-arrow';
 
 /* Modules */
 @import './imports/_box-sizing';
