@@ -1,4 +1,6 @@
+
 #bokeh {
+  
   img {
     position: absolute;
     left: 0;
@@ -13,10 +15,10 @@
     max-height: 90vh;
   }
 
-  // background: rgb(146, 60, 181);
-  // background: linear-gradient(135deg, rgba(146, 60, 181, 1) 0%, rgba(90, 34, 119, 1) 0%, rgba(85, 33, 113, 1) 0%, rgba(45, 24, 69, 1) 22%, rgba(21, 6, 36, 1) 64%, rgba(0, 0, 0, 1) 100%);
-  // background-color: black;
-  background: url('/img/home_backdrop.png') no-repeat center center fixed;
+  background: url('/img/home_backdrop_min.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
