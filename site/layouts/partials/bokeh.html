@@ -1,7 +1,5 @@
 <div id="bokeh">
-  <img
-    src="/img/logo.png"
-  />
+  <img src="/img/logo.png" />
 
   <canvas id="canvas"></canvas>
   <div class="wrapper">
@@ -24,26 +22,24 @@
 </div>
 
 <script>
+  var src = $("#bokeh").css("background-image");
+  var url = "/img/home_backdrop.png";
 
-var src = $('#bokeh').css('background-image');
-var url = '/img/home_backdrop.png';
+  var img = new Image();
+  img.onload = function () {
+    $("#bokeh").css("background-image", "url('/img/home_backdrop.png')");
+  };
+  img.src = url;
+  if (img.complete) img.onload();
 
-var img = new Image();
-img.onload = function() {
-    {{/*  alert('image loaded');  */}}
-    console.log(img);
-    $('#bokeh').css('background', "url('/img/home_backdrop.png')" );
-    $('#bokeh').css('background-repeat', "no-repeat" );
-    $('#bokeh').css('background-size', "cover" );
-    $('#bokeh').css('background-attachment', "fixed" );
-}
-img.src = url;
-if (img.complete) img.onload();
-
-document.fonts.ready.then(function () {
-  {{/*  alert('All fonts in use by visible text have loaded.');  */}}
-   $('.replaceFont').css('font-family', "Humbolt")
-});
+  document.fonts.ready.then(function () {
+    {
+      {
+        /*  alert('All fonts in use by visible text have loaded.');  */
+      }
+    }
+    $(".replaceFont").css("font-family", "Humbolt");
+  });
 
   (window.draw = function () {
     var canvas = document.getElementById("canvas"),
