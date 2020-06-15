@@ -8,3 +8,23 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+
+
+
+$(document).ready(function () {
+  $("#burger").click(function () {
+    burger();
+  });
+});
+$(window).resize(function () {
+  if ($(window).width() > 959) {
+    $("#sideNav").slideUp();
+    $("#burger").removeClass("is-active");
+  }
+});
+
+function burger() {
+  $("#sideNav").slideToggle();
+  $("#burger").toggleClass("is-active");
+}
