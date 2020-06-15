@@ -4,7 +4,7 @@ subtitle: The ultimate competition experience
 ---
 ## Join the Prestige Movement
 
-Prestige National Talent Competition is a world class, innovation company that focuses on creating a refreshing dance experience for dancers, their families, teachers, and studio owners! 
+Prestige National Talent Competition is a world class, innovative company that focuses on creating a refreshing dance experience for dancers, their families, teachers, and studio owners! 
 
 Based on our many years of studio-owning, we are committed to providing a world class dance event with the finest customer service possible. 
 
