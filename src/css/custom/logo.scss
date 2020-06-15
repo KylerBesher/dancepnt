@@ -1,0 +1,47 @@
+.logoText {
+    animation: shake 21s infinite;
+}
+
+.logoCircle {
+    animation: rotation 10s infinite linear;
+}
+
+.footerImage {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    z-index: 998;
+    -webkit-filter: drop-shadow(10px 10px 2px #000);
+    filter: drop-shadow(10px 10px 2px #000);
+    max-height: 400px;
+    height: 70vw;
+    width: 70vw;
+    max-width: 400px;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes shake {
+
+    0%,
+    50%,
+    100% {
+        -webkit-transform: scale(1) rotate(0deg);
+    }
+
+    25%,
+    75% {
+        -webkit-transform: scale(1.03) rotate(2deg);
+    }
+}

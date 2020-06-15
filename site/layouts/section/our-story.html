@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{partial "bokeh"  (dict  "image" "/img/our_story.png"  "backgroundImage" "/img/home_backdrop.png" "backgroundImageMin" "/img/home_backdrop_min.png" ) . }}
+
+<div class="bg-grey-2" >
+  <div class="replaceFont" style="background-color: #101010">
+    <h1 class="mw7 center white f2 pt4" style="text-align: center">{{.Params.subtitle}}</h1>
+    <div class="flex flex-column    center justify-center mw7 white cms ph3">
+
+        {{.Content}}
+
+
+    </div>
+  </div>
+</div>
+
+
+{{ end }}

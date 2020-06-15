@@ -1,45 +1,49 @@
+  {{/*  {{partial "divider" .}}  */}}
+<svg version="1.0" id="Layer_1" style="margin-bottom: -10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 144 10" style="enable-background:new 0 0 144 10;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#202020;}
+	.st1{fill:#101010;}
+</style>
+<rect class="st0" width="144" height="10"/>
+<polygon class="st1" points="0,0 72,10 144,0 "/>
+</svg>
 
 <footer class="bg-black ph3 pv4 white">
-	<div class="mw7 center pt3">
+	<div class="mw7 center">
 
-		<div class="measure-narrow center mb4">
-
-			<img src="/img/logo.png" alt="Kaldi logo" class="db w5 center mv4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
-			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
-
-			{{ partial "newsletter-form" . }}
-
+		<div class="measure-narrow center mb4 relative" style="padding-bottom: 450px; margin-top: -50px;"  >
+			<img src="/img/logo_circle.png" alt="Prestige Dance National Tour Logo" class="db relative center mv4 br0 absolute footerImage logoCircle">
+			<img src="/img/logo_text.png" alt="Prestige Dance National Tour Logo" class="db absolute center mv4 br0 absolute footerImage logoText">
 		</div>
 
 		<div class="flex-ns justify-between">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
+				<h3 class="f4 b lh-title mb1 primary">Site Links</h3>
 				<ul class="mb3">
 					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
+					<li><a href="/our-story" class="link">Our Story</a></li>
+					<li><a href="/intensive" class="link">Intensive</a></li>
+					<li><a href="/convention" class="link">Convention</a></li>
+					<li><a href="/the-tour" class="link">The Tour</a></li>
 				</ul>
 			</div>
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
+				<h3 class="f4 b lh-title mb1 primary">Contact Us</h3>
 				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule and appointment</a></li>
+					<li>EMAIL ADDRESS NEEDED</li>
+					<li>LINK TO FACEBOOK PAGE</li>
+					<li>Dance Genie Contact Form?</li>
 				</ul>
 			</div>
 
 			<div>
 				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/dancepnt" "svg" "icons-facebook") }}
+					{{ partial "social-icon" (dict "link" "https://www.instagram.com/PrestigeNationalTalent/" "svg" "icons-instagram") }}
 				</ul>
 			</div>
 

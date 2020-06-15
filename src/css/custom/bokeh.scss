@@ -10,11 +10,14 @@
     z-index: 998;
     -webkit-filter: drop-shadow(10px 10px 2px #000);
     filter: drop-shadow(10px 10px 2px #000);
-    max-width: 90vw;
-    max-height: 90vh;
-  }
+    max-height: 750px;
+    height: 90vw;
+    width: 90vw;
+    max-width: 750px;
 
-  background-image: url('/img/home_backdrop_min.png');
+
+  }
+  
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -65,11 +68,13 @@
 
     .circle:nth-child(#{index($palette, $color)}) {
       background: $color;
-      box-shadow: 0 0 random(5) + 5px random(5) + 5px $color;
+      box-shadow: 0 0 random(3) + 3px random(3) + 3px $color;
       top: random(100) + 0%;
       left: random(100) + 0%;
       width: $size;
       height: $size;
+      min-width: 39px;
+      min-height: 39px;
       opacity: random(100) / 100;
       animation: float#{index($palette, $color)} 20s infinite linear;
     }

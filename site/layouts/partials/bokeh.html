@@ -1,5 +1,7 @@
-<div id="bokeh">
-  <img src="/img/logo.png" />
+<div id="bokeh" style="background-image: url('{{.backgroundImageMin}}');">
+  <img class="logoCircle" src="/img/logo_circle.png" />
+  <img class="logoText" src="{{.image}}" />
+  
 
   <canvas id="canvas"></canvas>
   <div class="wrapper">
@@ -27,18 +29,14 @@
 
   var img = new Image();
   img.onload = function () {
-    $("#bokeh").css("background-image", "url('/img/home_backdrop.png')");
+    $("#bokeh").css("background-image", "url('{{.backgroundImage}}')");
   };
   img.src = url;
   if (img.complete) img.onload();
 
   document.fonts.ready.then(function () {
-    {
-      {
-        /*  alert('All fonts in use by visible text have loaded.');  */
-      }
-    }
-    $(".replaceFont").css("font-family", "Humbolt");
+        $("h1, h2").css("font-family", "Humbolt");
+        $("h1, h2").css("font-weight", "normal");
   });
 
   (window.draw = function () {

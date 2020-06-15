@@ -1,16 +1,40 @@
 {{ define "main" }} 
-{{ partial "bokeh" .}}
+
+{{partial "bokeh"  (dict  "image" "/img/logo_text.png"  "backgroundImage" "/img/home_backdrop.png" "backgroundImageMin" "/img/home_backdrop_min.png" ) . }}
 <div class="bg-grey-2">
-
-  
-  <div class="replaceFont">
-    testing
+  <div class="replaceFont bg-blackout">
+    <h1 class="mw7 center white f2 pt4" style="text-align: center">{{.Params.subtitle}}</h1>
+    <div class="flex flex-column flex-row-ns center justify-center mw7">
+      <div class="cms w-100 w-60-ns center ph4 pt4 pa4-ns white">
+        {{.Content}}
+      </div>
+      <div class="w-100 w-40-ns flex flex-row flex-column-ns justify-center">
+        <img src="/img/home_splash.png" alt="cloud dancer" />
+      </div>
+    </div>
   </div>
-<div class="cms mw7 center " >
-    
-  {{.Content}}
 </div>
-{{partial "divider" .}}
-</div>
-{{ end }}
 
+<svg
+  version="1.0"
+  id="Layer_1"
+  style="margin-bottom: -10px;"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  viewBox="0 0 144 10"
+  style="enable-background: new 0 0 144 10;"
+  xml:space="preserve"
+>
+  <rect style="fill: #101010;" stoke-opacity="0" width="144" height="10" />
+  <polygon style="fill: #000000;" stoke-opacity="0" points="0,0 72,10 144,0 " />
+</svg>
+
+<div style="background-color: #101010;">
+  <div class="mw7 center pa4">
+    <img src="/img/game_changer.png" alt="Coming Soon" />
+  </div>
+</div>
+
+{{ end }}
