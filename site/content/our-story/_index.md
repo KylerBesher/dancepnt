@@ -34,6 +34,6 @@ Rules and Regulations will be top of the line! Offering:
 *  Industry leading judges in EACH specific genre
 Its important to us that your experience is top of the line. 
 
-PNT has additional prizes for our teachers and choreographers we well! All of our regional events will feature a VIP teacher/studio owner lounge where food and beverages will be provided. Food trucks will be available to our parents. As an additional bonus, EACH regional Elite Studio of Excellence winner will receive the chance to be entered in the drawing for “Cruise with PNT,” where we will award a studio owner with a CRUISE! The winner will be determined at the last National Finals of the 2021 competition season. 
+PNT has additional prizes for our teachers and choreographers as well! All of our regional events will feature a VIP teacher/studio owner lounge where food and beverages will be provided. Food trucks will be available to our parents. As an additional bonus, EACH regional Elite Studio of Excellence winner will receive the chance to be entered in the drawing for “Cruise with PNT,” where we will award a studio owner with a CRUISE! The winner will be determined at the last National Finals of the 2021 competition season. 
 
 On behalf of everyone at PNT, we want to say THANK YOU for being a part of our family. Our team is ready to inspire dancers and create lifelong memories together.
