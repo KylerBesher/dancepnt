@@ -1,6 +1,12 @@
 
 <footer class="bg-black white">
+	{{if eq .Title "Register"}}
+
+	<img src="/img/divider-footer-white.png" class="w-100" style="margin: 0px; padding: 0px" alt="footer divider image">
+	{{else}}
 	<img src="/img/divider-footer.png" class="w-100" style="margin: 0px; padding: 0px" alt="footer divider image">
+
+	{{end}}
 	<div class="ph3 pv4 ">
 	<div class="mw7 center">
 		
@@ -20,6 +26,7 @@
 					<li><a href="/intensive" class="link">Intensive</a></li>
 					<li><a href="/convention" class="link">Convention</a></li>
 					<li><a href="/the-tour" class="link">The Tour</a></li>
+					<li><a href="/register" class="link">Register</a></li>
 				</ul>
 			</div>
 

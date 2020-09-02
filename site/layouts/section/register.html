@@ -1,0 +1,25 @@
+{{ define "main" }}
+<!-- {{partial "bokeh"  (dict  "image" "/img/inspired_txt.png"  "backgroundImage" "/img/home_backdrop.png" "backgroundImageMin" "/img/home_backdrop_min.png" ) . }} -->
+<div class="bg-grey-2" >
+  <div class="replaceFont" style="background-color: white">
+    <h1 class="mw7 center white f2 pt4" style="text-align: center">{{.Params.subtitle}}</h1>
+    <div class="flex flex-column    center justify-center mw7 white cms ph3">
+<div style="background-color: white">
+  <iframe
+      id="dance_bug_iframe"
+      sandbox="allow-top-navigation allow-forms allow-popups allow-popups-to-escape-sandbox allow-modals allow-same-origin allow-scripts"
+      src=""
+      style="width: 100%; height: 980px; padding: 0px; margin: 0px; margin-top: 50px"
+      frameborder="0"
+    ></iframe>
+    </div>
+    <script>var parent_url = window.location; document.getElementById("dance_bug_iframe").src = "https://www.dancebug.com/rf/?ifid=280&parent_url="+parent_url;</script>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+{{ end }}
