@@ -24,14 +24,14 @@ logo: "/img/logo.svg"
 
 ### CONVENTION
 
--   **GATHERINGS** -- No gatherings in the pre-function/registration and lobby areas
--   **SCHEDULE** -- Classes will begin and end in each classroom on different schedules to avoid gatherings
--   **CHAIRS** -- No chairs permitted in ballrooms
--   **OBSERVERS** -- No paid observer wristbands available. Each studio will receive two complimentary badges for entrance to the junior ballroom that may be shared by different chaperones throughout the day.
--   **FACULTY AUTOGRAPHS AND PHOTOS** will not be possible due to social distancing
--   **SCHOLARSHIPS** -- Recipients will be announced at the end of the last class on Sunday
--   **BALLROOM DOORS** will remain open throughout the day for increased ventilation
--   **MASKS** -- Masks may only be removed by dancers when distanced in the classroom. Masks are required by all who enter. Dancers who may be medically exempt will need to bring a doctors note. Masks are required in all public areas, convention areas, and classrooms.
+- **GATHERINGS**                         -– Please limit gatherings in the pre-function/registration and lobby areas
+- **SCHEDULE**                           -– Classes will begin and end in each classroom on different schedules to avoid gatherings
+- **CHAIRS**                             -– Chairs are permitted in ballrooms, but will be 6 feet apart 
+- **OBSERVERS**                          -– Paid observer wristbands available, but space is limited.
+- **FACULTY AUTOGRAPHS AND PHOTOS**      -- will be on a case by case basis and at the teachers discretion.
+- **SCHOLARSHIPS**                       -– Recipients will be announced at the end of the last class on Sunday
+- **BALLROOM DOORS**                     -- will remain open throughout the day for increased ventilation
+- **MASKS**                              -– Masks may only be removed by dancers when distanced in the classroom. Masks are required by all who enter. Dancers who may be medically exempt will need to bring a doctors note. Masks are required in all public areas, convention areas, and classrooms.
 
 ### GENERAL
 
