@@ -4,9 +4,9 @@ logo: "/img/logo.svg"
 ---
 # Covid 19 Procedures
 ### EVENT OPTIONS
--   VIRTUAL -- If Live or Hybrid options are not possible
--   HYBRID -- Virtual + Live Combination
--   LIVE -- In-person classes & competition with enhanced Safety Measures
+-   VIRTUAL - If Live or Hybrid options are not possible
+-   HYBRID - Virtual + Live Combination
+-   LIVE - In-person classes & competition with enhanced Safety Measures
     -   Limited Capacity in all ballrooms
     -   Live Streaming Competition with no Live Audience**
 
@@ -24,21 +24,21 @@ logo: "/img/logo.svg"
 
 ### CONVENTION
 
-- **GATHERINGS**                         -– Please limit gatherings in the pre-function/registration and lobby areas
-- **SCHEDULE**                           -– Classes will begin and end in each classroom on different schedules to avoid gatherings
-- **CHAIRS**                             -– Chairs are permitted in ballrooms, but will be 6 feet apart 
-- **OBSERVERS**                          -– Paid observer wristbands available, but space is limited.
-- **FACULTY AUTOGRAPHS AND PHOTOS**      -- will be on a case by case basis and at the teachers discretion.
-- **SCHOLARSHIPS**                       -– Recipients will be announced at the end of the last class on Sunday
-- **BALLROOM DOORS**                     -- will remain open throughout the day for increased ventilation
-- **MASKS**                              -– Masks may only be removed by dancers when distanced in the classroom. Masks are required by all who enter. Dancers who may be medically exempt will need to bring a doctors note. Masks are required in all public areas, convention areas, and classrooms.
+- **GATHERINGS**                         - Please limit gatherings in the pre-function/registration and lobby areas
+- **SCHEDULE**                           - Classes will begin and end in each classroom on different schedules to avoid gatherings
+- **CHAIRS**                             - Chairs are permitted in ballrooms, but will be 6 feet apart 
+- **OBSERVERS**                          - Paid observer wristbands available, but space is limited.
+- **FACULTY AUTOGRAPHS AND PHOTOS**      - will be on a case by case basis and at the teachers discretion.
+- **SCHOLARSHIPS**                       - Recipients will be announced at the end of the last class on Sunday
+- **BALLROOM DOORS**                     - will remain open throughout the day for increased ventilation
+- **MASKS**                              - Masks may only be removed by dancers when distanced in the classroom. Masks are required by all who enter. Dancers who may be medically exempt will need to bring a doctors note. Masks are required in all public areas, convention areas, and classrooms.
 
 ### GENERAL
 
 -   **COVID-19 WAIVERS** to be signed by all attendees as part of the registration process
 -   **THERMAL TEMPERATURE CHECKS** will be taken by ballroom door guards before the first class each day
--   **TEMPERATURE** -- No entry if you have a temperature
--   **EXPERIENCING COVID/FLU-LIKE SYMPTOMS** -- Please stay home
+-   **TEMPERATURE** - No entry if you have a temperature
+-   **EXPERIENCING COVID/FLU-LIKE SYMPTOMS** - Please stay home
 -   **WASH YOUR HANDS OFTEN**
 -   **HAND SANITIZER** will be available at ballroom entrances
 -   **SOCIAL DISTANCING REQUIRED**
