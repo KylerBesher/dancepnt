@@ -16,24 +16,21 @@ PNT is more than just another dance competition. Our unique history within the c
 
 # What Sets Us Apart
 
-Our photo & video studio packages will be available to you for the affordable price of $25. This is an ALL inclusive fee that grants you access to all of your child’s footage. 
+Our photo & video studio packages will be available to you via the dance bug for unbelievably low prices. 
 
-Parents will enjoy our complimentary programs! 
+All regional and national events will be live streamed!
 
-All regional and national events will be live streamed! 
-
-ON-TIME EVENTS! Scheduling that makes sense. 
+ON-TIME EVENTS! Scheduling that makes sense.
 
 Rules and Regulations will be top of the line! Offering:
-*  **NEW** judging criteria based on **YOUR** desires. 
-*  Fair and ethical judging. 
-*  Level promotions 
-*  Level calculators 
-*  Comprehensive dance skill sets 
-*  Prop guidelines 
-*  Industry leading judges in EACH specific genre
-Its important to us that your experience is top of the line. 
+* **NEW** judging criteria based on YOUR desires.
+* Fair and ethical judging.
+* Level promotions
+* Level calculators
+* Comprehensive dance skill sets
+* Prop guidelines
+* Industry leading judges in **EACH** specific genre. It's important to us that your experience is top of the line.
 
-PNT has additional prizes for our teachers and choreographers as well! All of our regional events will feature a VIP teacher/studio owner lounge where food and beverages will be provided. Food trucks will be available to our parents. As an additional bonus, EACH regional Elite Studio of Excellence winner will receive the chance to be entered in the drawing for “Cruise with PNT,” where we will award a studio owner with a CRUISE! The winner will be determined at the last National Finals of the 2021 competition season. 
+PNT has additional prizes for our teachers and choreographers as well. All of our regional events will feature a VIP teacher/studio owner lounge where food and beverages will be provided. 
 
-On behalf of everyone at PNT, we want to say THANK YOU for being a part of our family. Our team is ready to inspire dancers and create lifelong memories together.
+On behalf of everyone at PNT, we want to say **THANK YOU** for being a part of our family. Our team is ready to inspire dancers and create lifelong memories together.
