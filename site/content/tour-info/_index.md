@@ -171,12 +171,11 @@ Our entry types are:
 
 -   Double Platinum, Platinum 1st Place, Gold 1st Place, and Silver Awards will be decided\
     by a predetermined range of points for each place.
--   In the Competitive Level, dance routines are also eligible for the Crystal Award.
 -   There may be multiple Double Platinum, Platinum 1st places, Gold 1st places, and Silver\
     Awards in each age group and category.
 -   Contestants will compete in the following age groups:
 
--   (4 & under), (5-6 years), (7-8 years), (9-10 years), (11 years), (12 years), (13-14\
+-   (5-6 years), (7-8 years), (9-10 years), (11 years), (12 years), (13-14\
     years), (15-16 years), (17-19 years), (20-29 years), (30-39 years), (40-49 years),\
     (50-59 years), (60-69 years), and (70 & over).
 
@@ -198,35 +197,8 @@ Overall recognition and medals will be given in the following five age divisions
 -   Senior: 15-19 years
 -   Adult: 20 years and over
 
-***Please note:*** All cash prizes and gift certificates are mailed to the Studio Director or Teacher after the competition. Also, no cash awards are given in the Novice & Intermediate Level.
+***Please note:*** All cash prizes and gift certificates are mailed to the Studio Director or Teacher after the competition. Also, no cash awards are given in the Novice & Intermediate Level. Must be at least 5 to a category
 
-**TOP SOLO**
-
--   $50 plus a $50 PRESTIGE gift certificate will be awarded to the soloist in the Mini: 8 years & under, Junior: 9-11, Teen: 12-14, and Senior: 15-19 age divisions receiving the highest overall score.
--   If a contestant performs two solos, only the highest scoring one counts for the top overall awards.
--   The Top 4 scoring soloists from the Junior, Teen and Senior divisions in the Competitive Level at every regional event become PRESTIGE All Stars and are invited to perform in the opening number of our championship on the last day of each Finals event. If a regional event has over 900 entries, the top 6 scoring soloists from the Junior, Teen, and Senior divisions are invited. If a regional event has over 2,000 entries, the top 8 scoring soloists from the Junior, Teen, and Senior divisions are invited, and if a regional event has over 2,500 entries, the top 10 scoring soloists from the Junior, Teen, and Senior divisions are invited.
--   If a performer was one of the top 2 scoring minis at a regional event, they are not eligible for the opening number even if they turn 9 years old before the Finals.
--   If the same dancer qualifies to perform in the Opening Number at multiple regional events, then at each subsequent event, the next highest scoring Soloist, within the same age group, will be eligible to perform in the Opening Number.
-
-**TOP ADULT AWARDS**
-
-- A special Trophy will be awarded to the top Adult (ages 20 & over) performances in Solo, Duet/Trio, and Group divisions receiving the highest overall score.
-
-**TOP DUET/TRIO**
-
-- $50 plus a $50 PRESTIGE gift certificate will be awarded to the Duet/Trio in the Mini: 8 years & under, Junior: 9-11, Teen: 12-14, and Senior: 15-19 age divisions receiving the highest overall score.
-
-**TOP SMALL GROUP**
-
-- $100 plus a $100 PRESTIGE gift certificate will be awarded to the small group in the Mini: 8 years & under, Junior: 9-11, Teen: 12-14, and Senior: 15-19 age divisions receiving the highest overall score.
-
-**TOP LARGE GROUP**
-
-- $100 plus a $100 PRESTIGE gift certificate will be awarded to the large group in the Mini: 8 years & under, Junior: 9-11, Teen: 12-14, and Senior: 15-19 age divisions receiving the highest overall score.
-
-**TOP SUPER GROUP**
-
-- $100 plus a $100 PRESTIGE gift certificate will be awarded to the super group in the Mini: 8 years & under, Junior: 9-11, Teen: 12-14, and Senior: 15-19 age divisions receiving the highest overall score.
 
 **Prestige Appropriate**
 
@@ -330,7 +302,7 @@ Overall recognition and medals will be given in the following five age divisions
 -   Senior: 15-19 years
 -   Adult: 20 years and over
 
-*No cash awards are given in the Novice & Intermediate Level.
+***Please note:***No cash awards are given in the Novice & Intermediate Level. Must be at least 5 to a category.
 
 ### Withdrawing/Adding Dancers
 
