@@ -164,23 +164,10 @@ Our entry types are:
 
 ### Awards
 
--   Double Platinum, Platinum 1st Place, Gold 1st Place, and Silver Awards will be decided\
+-   Double Platinum, Platinum, Gold, and Silver Awards will be decided\
     by a predetermined range of points for each place.
--   There may be multiple Double Platinum, Platinum 1st places, Gold 1st places, and Silver\
+-   There may be multiple Double Platinum, Platinum, Gold, and Silver\
     Awards in each age group and category.
--   Contestants will compete in the following age groups:
-
--   (5-6 years), (7-8 years), (9-10 years), (11 years), (12 years), (13-14\
-    years), (15-16 years), (17-19 years), (20-29 years), (30-39 years), (40-49 years),\
-    (50-59 years), (60-69 years), and (70 & over).
-
--   Contemporary, Tap, Jazz, Lyrical Jazz, Open, Musical Theater, Hip Hop and Production\
-    categories ONLY age groups are:
-
--   (4 & under), (5 years), (6 years), (7 years), (8 years), (9 years), (10 years), (11\
-    years), (12 years), (13 years), (14 years), (15 years), (16 years), (17 years), (18-\
-    19 years), (20-29 years), (30-39 years), (40-49 years), (50-59 years), (60-69\
-    years), and (70 & over).
 
 **Regionals Competitive Level Awards**
 
