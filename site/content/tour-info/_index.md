@@ -16,11 +16,6 @@ Our entry types are:
 ### Age Divisions
 
 -   **NEW** Ages for Solos, Duet/Trios and Groups are as of January 1st.
--   For Duet/Trios and Groups, the ages of all contestants as of January 1st must be averaged together. If there is a decimal, round down and drop the decimal.
--   Contestants will compete in the following age groups:
--   (4 & under), (5-6 years), (7-8 years), (9-10 years), (11 years), (12 years), (13-14 years), (15-16 years), (17-19 years), (20-29 years), (30-39 years), (40-49 years), (50-59 years), (60-69 years), and (70 & over).
--   Contemporary, Tap, Jazz, Lyrical Jazz, Open, Musical Theater, Hip Hop and Production categories ONLY age groups are:
--   (4 & under), (5 years), (6 years), (7 years), (8 years), (9 years), (10 years), (11 years), (12 years), (13 years), (14 years), (15 years), (16 years), (17 years), (18- 19 years), (20-29 years), (30-39 years), (40-49 years), (50-59 years), (60-69 years), and (70 & over).
 -   Overall recognition and medals will be given in the following five age divisions:
 -   Mini: 8 years & under
 -   Junior: 9-11 years
