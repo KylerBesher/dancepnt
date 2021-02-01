@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{partial "bokeh"  (dict  "image" "/img/game_changer_blank.png"  "backgroundImage" "/img/home_backdrop.png" "backgroundImageMin" "/img/home_backdrop_min.png" ) . }}
+
+<div class="bg-grey-2" >
+  <div class="replaceFont" style="background-color: #101010">
+    <h1 class="mw7 center white f2 pt4" style="text-align: center">{{.Params.subtitle}}</h1>
+    <div class="flex flex-column    center justify-center mw7 white cms ph3">
+
+        {{.Content}}
+        <div class="bg-white pa3 br1 flex ">
+
+          <iframe id="dance_bug_iframe" 
+          style="min-width: 600px" sandbox="allow-top-navigation allow-forms allow-popups allow-popups-to-escape-sandbox allow-modals allow-same-origin allow-scripts"id="dancebug_iframe_livestreams" onload="if(document.getElementById('dancebug_iframe_livestreams')) {document.getElementById('dancebug_iframe_livestreams').height = document.getElementById('dancebug_iframe_livestreams').contentWindow.document.body.scrollHeight + 'px';};" src="" style="width:100%;  padding:0px; margin:0px;" frameborder="0"></iframe><script>var parent_url = window.location; document.getElementById("dance_bug_iframe").src = "https://www.dancebug.com/rf/live_streams.php?ifid=300&parent_url="+parent_url;</script>
+        </div>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+{{ end }}

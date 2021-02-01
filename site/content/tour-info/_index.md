@@ -75,7 +75,7 @@ Our entry types are:
     judge deduction).
 -   All performers will be judged on both singing and dancing. A one point deduction per\
     judge will be incurred if any special microphones or sound equipment is hooked up by\
-    Showstopper for any reason.
+    Prestige for any reason.
 -   Two handheld wireless microphones only will be available for your use.
 
 **ACROBATIC DANCE**
@@ -149,9 +149,9 @@ Our entry types are:
 ### Props
 
 -   Fire, swords and knives on stage are prohibited. Simulated weapons with dull, safe\
-    edges are acceptable with approval of Showstopper.
+    edges are acceptable with approval of Prestige.
 -   No liquid, paint, gel, aerosol, glitter, fog, smoke, powder, paint powder, ashes, or similar substance that would affect the\
-    dancing surface is allowed, unless specifically approved by Showstopper. If this occurs, the routine\
+    dancing surface is allowed, unless specifically approved by Prestige. If this occurs, the routine\
     may be scored lower by the judges.
 -   Props are allowed, however they must be freestanding. Scenery or backdrops requiring\
     the use of theater fly bars may not be used. Props, if used, must be prepared and set-up,\
