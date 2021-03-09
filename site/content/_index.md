@@ -10,7 +10,6 @@ Based on our many years of studio-owning, we are committed to providing a world 
 
 The competition you have been waiting for **IS HERE**. Join us for our 2021 **“Game Changer”** tour. 
 
-
 Featuring: 
 * **Affordable** All-inclusive Photos & Videos
 * 3 Levels of Competition
