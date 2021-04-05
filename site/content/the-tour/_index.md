@@ -10,11 +10,11 @@ logo: "/img/logo.svg"
   
 *  **March 19-21**  | Wichita, KS   |   Century II Performing Arts Center.
   
-*  **April 2-3.** | Omaha, NE   |   Mid America Center Council Bluffs
+*  **April 2-3** | Omaha, NE   |   Mid America Center Council Bluffs
   
-*  **April 10-11** | Kansas City   |   Scottish Rite Temple
+*  **April 10-11** | Overland Park   |   The White Theatre at the J
   
-*  **May 2nd.** | Tulsa,OK- April 30   |   Union Performing Arts Center
+*  **May 2nd.** | Tulsa,OK- April 30   |   CANCELLED
 
 *  **June 19-20.** | National Finals   |   Kansas City. Hyvee Arena
 

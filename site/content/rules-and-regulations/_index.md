@@ -312,7 +312,14 @@ The studio must make all withdraws and changes.
 * Only 3 solos per person can be entered into the title division. 
 * Only the top 1st place in each age group and entry level will be awarded and all dance styles will be combined for the top title solo award. 
 * The first place winner will be awarded a plaque, tiara, sweatshirt and $50 in PNT cash to be used at any PNT event through the following dance year.  
-* Title categories are: Mini Miss, Junior Miss, Teen Miss, and Mr and Miss Dance. 
+* **Title categories** are: 
+  * Mini Miss/Mr. Prestige 
+  * Junior Miss/Mr. Prestige 
+  * Teen Miss/Mr. Prestige 
+  * Senior Miss/Mr. Prestige
+
+
+
 
 
 
@@ -335,10 +342,10 @@ The studio must make all withdraws and changes.
 * Overall Impression (5-10) 
 * 100 total possible from each judge
 <!--  -->
-* Double Platinum- 285- 300
-* Platinum- 260-284.9
-* Gold- 240-259.9
 * Silver- 0-239.9
+* Gold- 240-269.9
+* Platinum- 270-284.9
+* Double Platinum- 285- 300
 
 
 
