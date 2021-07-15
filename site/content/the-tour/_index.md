@@ -1,7 +1,7 @@
 ---
 title: "Tour Dates"
 logo: "/img/logo.svg"
-
+draft: false
 ---
 
 ### REGIONALS 2021
