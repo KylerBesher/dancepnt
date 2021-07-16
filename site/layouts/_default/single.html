@@ -1,6 +1,19 @@
 {{ define "main" }}
+{{partial "bokeh"  (dict  "image" .Params.logo  "backgroundImage" "/img/home_backdrop.png" "backgroundImageMin" "/img/home_backdrop_min.png" ) . }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
+<div class="bg-grey-2" >
+  <div class="replaceFont" style="background-color: #101010">
+    <h1 class="mw7 center white f2 pt4" style="text-align: center">{{.Params.subtitle}}</h1>
+    <div class="flex flex-column    center justify-center mw7 white cms ph3">
+
+        {{.Content}}
+        <div class="mw6 center mt3">
+        </div>
+
+
+    </div>
+  </div>
+</div>
+
 
 {{ end }}

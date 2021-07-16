@@ -1,6 +1,6 @@
 ---
 title: "Tour Dates"
-logo: "/img/logo.svg"
+logo: "/img/logo_text.png"
 draft: false
 ---
 

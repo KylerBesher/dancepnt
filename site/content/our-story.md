@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/our_story.png"
 ---
 
 # Welcome to Prestige National Talent Competition!

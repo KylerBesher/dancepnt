@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/intensive_txt.png"
 ---
 # PRESTIGE DANCE CoNVENTION
 
@@ -16,3 +16,4 @@ Carefully selected for their level of talent and enthusiasm, our convention teac
 Our family-friendly event, is the perfect choice to helping dancers of all ages and abilities gain confidence, and become stronger performers. 
 
 Don't miss out on the fun and be part of what everyone is talking about.
+![Convention Flyer](/img/flyer.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Covid 19 Procedures"
-logo: "/img/logo.svg"
+logo: "/img/logo_text.png"  
 ---
 # Covid 19 Procedures
 ### EVENT OPTIONS

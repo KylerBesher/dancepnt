@@ -1,6 +1,6 @@
 ---
 title: "Nationals"
-logo: "/img/logo.svg"
+logo: "/img/intensive_txt.png" 
 
 ---
 # Nationals

@@ -1,6 +1,6 @@
 ---
 title: "Rules and Regulations"
-logo: "/img/logo.svg"
+logo: "/img/logo_text.png"
 
 ---
 

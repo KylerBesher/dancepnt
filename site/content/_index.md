@@ -1,6 +1,7 @@
 ---
 title: Redefining the Dance Competition Experience
 subtitle: The ultimate competition experience
+logo: "/img/logo_text.png"  
 ---
 ## Join the Prestige Movement
 
