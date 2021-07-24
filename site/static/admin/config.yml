@@ -9,5 +9,8 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Logo", name: "logo", widget: "image"}
+      - {label: "is A Draft", name: "draft", widget: "boolean"}
+      - {label: "Show In Header", name: "showInHeader", widget: "boolean"}
+      - {label: "Header Weight", name: "weight", widget: "number"}
+      - {label: "Logo Foreground", name: "logo", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}

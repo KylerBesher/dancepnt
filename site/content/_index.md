@@ -1,5 +1,5 @@
 ---
-title: Redefining the Dance Competition Experience
+title: Home
 subtitle: The ultimate competition experience
 logo: "/img/logo_text.png"  
 ---

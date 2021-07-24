@@ -1,6 +1,9 @@
 ---
-title: "Contact"
+title: "Our Story"
 logo: "/img/our_story.png"
+draft: false
+showInHeader: true
+weight: 5
 ---
 
 # Welcome to Prestige National Talent Competition!

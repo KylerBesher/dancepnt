@@ -9,12 +9,15 @@
 
 		<!-- Primary Nav -->
 		<ul class=" dn flex-l b white f7">
-		<li><a href="/our-story" class="pa2 f7 no-underline db">Our Story</a></li>
-		<li><a href="/nationals" class="pa2 f7  no-underline db">Nationals</a></li>
-		<li><a href="/convention" class="pa2 f7  no-underline db">Convention</a></li>
-		<li><a href="/the-tour" class="pa2 f7  no-underline db">The Tour</a></li>
-		<li><a href="/rules-and-regulations" class="pa2 f7  no-underline db">Rules and Regulations</a></li>
-		<li><a href="/covid-19-procedures" class="pa2 f7  no-underline db">Covid-19</a></li>
+			    {{ range $.Site.Pages}}
+        		{{if eq true .Params.showInHeader}}
+				<li>
+            <a href="{{.Permalink}}" class="pa2 f7 no-underline db">{{.Title}}</a>
+        </li>
+		{{end}}
+    {{ end }}
+
+		
 		<li><a href="https://iframe.dacast.com/b/76956/c/574448" class="pa2 f7  no-underline db">Live Stream</a></li>
 		
 		<li><a href="/register" class="pa2 f7  no-underline db">Register</a></li>
@@ -30,12 +33,13 @@
 	</nav>
 
 	<ul id="sideNav" class="dn b  f7 bg-white relative black z-100 tc">
-		<li><a href="/our-story" class="pa2 pv3 subnav f7 no-underline db">Our Story</a></li>
-		<li><a href="/nationals" class="pa2 pv3 subnav f7  no-underline db">Nationals</a></li>
-		<li><a href="/convention" class="pa2 pv3 subnav f7  no-underline db">Convention</a></li>
-		<li><a href="/the-tour" class="pa2 pv3 subnav f7  no-underline db">The Tour</a></li>
-		<li><a href="/rules-and-regulations" class="pa2 pv3 subnav f7  no-underline db">Rules and Regulations</a></li>
-		<li><a href="/covid-19-procedures" class="pa2 pv3 subnav f7  no-underline db">Covid-19</a></li>
+		
+		{{ range .Pages}}
+
+		<li>
+            <a href="{{.Permalink}}" class="pa2 pv3 subnav f7 no-underline db">{{.Title}}</a>
+        </li>
+		{{end}}
 		<li><a href="https://iframe.dacast.com/b/76956/c/574448" class="pa2 pv3 subnav f7  no-underline db">Live Stream</a></li>
 		<li><a href="/register" class="pa2 pv3 subnav f7  no-underline db">Register</a></li>
 	</ul>

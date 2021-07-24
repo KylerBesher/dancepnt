@@ -1,7 +1,9 @@
 ---
 title: "Nationals"
 logo: "/img/intensive_txt.png" 
-
+draft: false
+showInHeader: true
+weight: 10
 ---
 # Nationals
 ### **June 18-20**: Sheraton Overland Park and Convention Center. 

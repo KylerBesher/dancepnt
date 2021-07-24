@@ -1,5 +1,8 @@
 ---
 title: "Terms Of Use"
+draft: false
+showInHeader: false
+weight: 100
 ---
 PRIVACY POLICY:
 We respect and are committed to protecting your privacy. We may collect personally identifiable information when you visit our site. We also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page(s) you visited. We will not sell your personally identifiable information to anyone. 

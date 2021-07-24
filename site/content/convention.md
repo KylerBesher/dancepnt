@@ -1,6 +1,9 @@
 ---
-title: "Contact"
+title: "Convention"
 logo: "/img/intensive_txt.png"
+draft: false
+showInHeader: true
+weight: 15
 ---
 # PRESTIGE DANCE CoNVENTION
 

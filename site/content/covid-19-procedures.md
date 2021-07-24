@@ -1,6 +1,9 @@
 ---
-title: "Covid 19 Procedures"
+title: "Covid-19"
 logo: "/img/logo_text.png"  
+draft: false
+showInHeader: true
+weight: 30
 ---
 # Covid 19 Procedures
 ### EVENT OPTIONS

@@ -1,7 +1,9 @@
 ---
-title: "Tour Dates"
+title: "The Tour"
 logo: "/img/logo_text.png"
 draft: false
+showInHeader: true
+weight: 15
 ---
 
 ### REGIONALS 2021

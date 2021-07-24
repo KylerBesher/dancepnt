@@ -1,7 +1,9 @@
 ---
 title: "Rules and Regulations"
 logo: "/img/logo_text.png"
-
+draft: false
+showInHeader: true
+weight: 25
 ---
 
 ### Types of Entries
