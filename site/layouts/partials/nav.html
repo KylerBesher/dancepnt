@@ -20,7 +20,7 @@
 		
 		<li><a href="https://iframe.dacast.com/b/76956/c/574448" class="pa2 f7  no-underline db">Live Stream</a></li>
 		
-		<li><a href="/register" class="pa2 f7  no-underline db">Register</a></li>
+
 
 		</ul>
 		<div class="dn-l">
@@ -35,13 +35,15 @@
 	<ul id="sideNav" class="dn b  f7 bg-white relative black z-100 tc">
 		
 		{{ range $.Site.Pages}}
+        		{{if eq true .Params.showInHeader}}
 
 		<li>
             <a href="{{.Permalink}}" class="pa2 pv3 subnav f7 no-underline db">{{.Title}}</a>
         </li>
 		{{end}}
+		{{end}}
 		<li><a href="https://iframe.dacast.com/b/76956/c/574448" class="pa2 pv3 subnav f7  no-underline db">Live Stream</a></li>
-		<li><a href="/register" class="pa2 pv3 subnav f7  no-underline db">Register</a></li>
+
 	</ul>
 </div>
 

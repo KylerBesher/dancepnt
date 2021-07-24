@@ -2,6 +2,7 @@
 title: Home
 subtitle: The ultimate competition experience
 logo: "/img/logo_text.png"  
+weight: -5
 ---
 ## Join the Prestige Movement
 
