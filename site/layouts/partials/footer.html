@@ -22,7 +22,7 @@
 				<h3 class="f4 b lh-title mb1 primary">Site Links</h3>
 				<ul class="mb3">
 					<li><a href="/" class="link">Home</a></li>
-	{{ range .Pages}}
+	{{ range $.Site.Pages}}
 
 		<li>
             <a href="{{.Permalink}}" class="link">{{.Title}}</a>

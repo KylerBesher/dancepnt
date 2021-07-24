@@ -34,7 +34,7 @@
 
 	<ul id="sideNav" class="dn b  f7 bg-white relative black z-100 tc">
 		
-		{{ range .Pages}}
+		{{ range $.Site.Pages}}
 
 		<li>
             <a href="{{.Permalink}}" class="pa2 pv3 subnav f7 no-underline db">{{.Title}}</a>
