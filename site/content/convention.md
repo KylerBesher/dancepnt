@@ -1,6 +1,6 @@
 ---
 title: Convention
-draft: true
+draft: false
 showInHeader: true
 weight: 15
 logo: /img/intensive_txt.png
