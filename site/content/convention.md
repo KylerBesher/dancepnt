@@ -1,13 +1,14 @@
 ---
-title: "Convention"
-logo: "/img/intensive_txt.png"
+title: Convention
 draft: false
 showInHeader: true
 weight: 15
+logo: /img/intensive_txt.png
 ---
 # PRESTIGE DANCE CoNVENTION
 
 Prestige Talent offers one-day, affordable workshops in the styles of:
+
 * Jazz
 * Tap
 * Musical Theatre
@@ -18,5 +19,6 @@ Carefully selected for their level of talent and enthusiasm, our convention teac
 
 Our family-friendly event, is the perfect choice to helping dancers of all ages and abilities gain confidence, and become stronger performers. 
 
-Don't miss out on the fun and be part of what everyone is talking about.
-![Convention Flyer](/img/flyer.jpg)
+Don't miss out on the fun and be part of what everyone is talking about. 
+
+![](img/copy-of-feed-the-homeless-flyer-made-with-postermywall-2.jpg)
