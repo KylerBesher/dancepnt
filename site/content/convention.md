@@ -21,4 +21,9 @@ Our family-friendly event, is the perfect choice to helping dancers of all ages 
 
 Don't miss out on the fun and be part of what everyone is talking about. 
 
+### UPCOMING CONVENTIONS
+
+* **February 4-6** | Omaha, NE | Mac Center Council Bluffs | Convention & Competition
+
+
 ##### View our upcoming Intensives [here.](https://www.dancepnt.com/intensives/)
