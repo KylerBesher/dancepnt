@@ -7,7 +7,7 @@ logo: /img/our_story.png
 ---
 # Welcome to Prestige National Talent Competition!
 
-For the last 13 years, founder Kristal Venters has worked as a studio owner/competition team director. The vision for PNT was created to strengthen and inspire our competitive industry as a whole. 
+For the last 13 years, founder Kristal Venters has worked as a studio owner and competition team director. The vision for PNT was created to strengthen and inspire our competitive industry as a whole. 
 
 After years of attending countless competitions, our team is driven to give the **BEST** experience possible to our competitive dancers. With customer service being our top priority, we aim to create a world class dance experience for ALL of our regional and national shows. Everyone who enters our doors will truly feel appreciated. 
 
