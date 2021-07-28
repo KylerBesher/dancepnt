@@ -2,7 +2,7 @@
 title: Intensives
 draft: false
 showInHeader: true
-weight: 4
+weight: 15
 logo: /img/intensive_txt.png
 ---
 ### Intensives
