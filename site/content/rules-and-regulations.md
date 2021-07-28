@@ -1,6 +1,6 @@
 ---
 title: Rules and Regulations
-draft: true
+draft: false
 showInHeader: true
 weight: 25
 logo: /img/logo_text.png
@@ -278,8 +278,8 @@ Overall recognition and medals will be given in the following five age divisions
 * **HOW IT WORKS:** The PNT Top Title Solo entries will be judged during their regular solo performance, but will be entered into a separate awards category. 
 * There is $35 fee in addition to solo fees to compete for Top Title
 * Only 3 solos per person can be entered into the title division. 
-* Only the top 1st place in each age group and entry level will be awarded and all dance styles will be combined for the top title solo award. 
-* The first place winner will be awarded a plaque, tiara, sweatshirt and $50 in PNT cash to be used at any PNT event through the following dance year.  
+* Only the top 1st place in each age group and entry level will be awarded. All dance styles will be combined for the top title solo award. 
+* The first place winner will be awarded a plaque, tiara or crown, t shirt, and $50 in PNT cash to be used at any PNT event through the following dance year.  
 * **Title categories** are: 
 
   * Mini Miss/Mr. Prestige 
@@ -290,7 +290,7 @@ Overall recognition and medals will be given in the following five age divisions
 ### PHOTOGENIC
 
 * Parents or studio owners may submit an 8X10 to the judges table prior to the start of their session. 
-* Photos must be marked on the back with a label that has their studio name, dancers name, age. 
+* Photos must be marked on the back with the dancers name, studio name, and age. 
 * Judges will make their decisions at the end of the day before the overall awards ceremony where they will be announced. 
 * Photos will not be mailed back. Studio directors or teachers may pick up at the end of the day. 
 * The Fee is $35 to enter and must be paid by cash or check. Checks can be made payable to Prestige National Talent. Payments need to be paper clipped to the photo or they will not be accepted. 
@@ -310,8 +310,11 @@ Overall recognition and medals will be given in the following five age divisions
 
 ### AWARDS PROCESS IN 2021-2022
 
-* Every routine will receive 1 trophy during adjudications with the exception of duo/trios. Group dancers will receive Medals for their adjudications. 
-* Duo/Trios will receive medals adjudications. 
+* Routines will receive the following adjudications:
+
+  * Solos will receive one (1) trophy
+  * Duo/Trios will receive a medal for each dancer
+  * Groups will receive one (1) trophy and a medal for each dancer
 * Studios may be presented with specialty awards and plaques during overalls. 
-* Titles receive Plaques, a Tiara, a sweatshirt, and $50 in PNT cash to be used at any future PNT events over the next year. 
+* Titles receive a plaque, tiara or crown, t shirt, and $50 in PNT cash to be used at any PNT event through the following dance year.  
 * Photogenic winners will receive $50 in PNT cash to be used at any future PNT events over the next year.
