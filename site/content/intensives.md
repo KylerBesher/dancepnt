@@ -11,15 +11,19 @@ Prestige Talent offers one-day, affordable workshops in the styles of:
 
 * Jazz                                              
 * Tap
+* Ballet
 * Musical Theatre
 * Hip Hop
 * Lyrical/Contemporary
+* Teacher Classes
 
 Carefully selected for their level of talent and enthusiasm, our convention teachers will bring the latest choreography styles to our convention, at the most affordable rates!
 
 Our family-friendly event, is the perfect choice to helping dancers of all ages and abilities gain confidence, and become stronger performers.
 
 Don’t miss out on the fun and be part of what everyone is talking about.
+
+For ages 6-10, 11-14, and 15 & up!
 
 ### Upcoming Intensives
 
