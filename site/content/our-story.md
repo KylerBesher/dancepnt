@@ -2,7 +2,7 @@
 title: Our Story
 draft: false
 showInHeader: true
-weight: 5
+weight: 20
 logo: /img/our_story.png
 ---
 # Welcome to Prestige National Talent Competition!
