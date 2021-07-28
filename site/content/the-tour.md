@@ -1,9 +1,9 @@
 ---
-title: "The Tour"
-logo: "/img/logo_text.png"
+title: The Tour
 draft: false
 showInHeader: true
-weight: 15
+weight: 10
+logo: /img/logo_text.png
 ---
 
 ### REGIONALS 2021
