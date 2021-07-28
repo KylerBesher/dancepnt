@@ -1,7 +1,7 @@
 ---
 title: Home
 subtitle: The ultimate competition experience
-draft: true
+draft: false
 showInHeader: true
 weight: -5
 logo: /img/logo_text.png
