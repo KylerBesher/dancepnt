@@ -30,4 +30,4 @@ Don’t miss out on the fun and be part of what everyone is talking about.
 
 ![](img/copy-of-feed-the-homeless-flyer-made-with-postermywall-2.jpg "Wichita, KS Intensive - October 10")
 
-###### See our multi day conventions here.
+##### See our multi day conventions [here.](https://www.dancepnt.com/conventions/)
