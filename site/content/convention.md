@@ -7,7 +7,7 @@ logo: /img/intensive_txt.png
 ---
 # PRESTIGE DANCE CONVENTION
 
-Prestige Talent offers one-day, affordable workshops in the styles of:
+Prestige Talent offers multi-day, affordable workshops in the styles of:
 
 * Jazz
 * Tap
@@ -21,6 +21,4 @@ Our family-friendly event, is the perfect choice to helping dancers of all ages 
 
 Don't miss out on the fun and be part of what everyone is talking about. 
 
-View our upcoming Intensives here.
-
-![](img/copy-of-feed-the-homeless-flyer-made-with-postermywall-2.jpg)
+##### View our upcoming Intensives [here.](https://www.dancepnt.com/intensives/)
