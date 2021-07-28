@@ -9,7 +9,7 @@ logo: /img/intensive_txt.png
 
 Prestige Talent offers one-day, affordable workshops in the styles of:
 
-* Jazz
+* Jazz                                              
 * Tap
 * Musical Theatre
 * Hip Hop
