@@ -5,7 +5,7 @@ showInHeader: true
 weight: 15
 logo: /img/intensive_txt.png
 ---
-# PRESTIGE DANCE CONVENTION
+# PRESTIGE DANCE CONVENTIONS
 
 Prestige Talent offers multi-day, affordable workshops in the styles of:
 
