@@ -21,3 +21,4 @@ logo: /img/logo_text.png
 
 ### CONVENTIONS
 * **February 4-6** | Omaha, NE | Mac Center Council Bluffs | Convention & Competition
+
