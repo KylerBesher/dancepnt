@@ -5,7 +5,7 @@ showInHeader: true
 weight: 15
 logo: /img/intensive_txt.png
 ---
-### Intensives
+# PRESTIGE DANCE INTENSIVES
 
 Prestige Talent offers one-day, affordable workshops in the styles of:
 
@@ -26,7 +26,7 @@ Don’t miss out on the fun and be part of what everyone is talking about.
 * **September 26, 2021** | 8am-5pm | Kansas City, MO | Hilton Airport KC
 * **October 10, 2021** | 8am-5pm | Wichita, KS | Hyatt Regency
 
-  ![](img/copy-of-feed-the-homeless-flyer-made-with-postermywall.jpg "Kansas City, MO Intensive - September 26")
+![](img/copy-of-feed-the-homeless-flyer-made-with-postermywall.jpg "Kansas City, MO Intensive - September 26")
 
 ![](img/copy-of-feed-the-homeless-flyer-made-with-postermywall-2.jpg "Wichita, KS Intensive - October 10")
 
